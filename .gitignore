@@ -1,0 +1,27 @@
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+league-simulator
+
+# Output folders
+bin/
+obj/
+
+# IDE/editor files
+.vscode/
+.idea/
+*.swp
+
+# OS junk files
+.DS_Store
+Thumbs.db
+
+# Test/output files
+*.log
+*.out
+
+# Go modules vendor dir (not needed for this project, but best practice)
+vendor/
